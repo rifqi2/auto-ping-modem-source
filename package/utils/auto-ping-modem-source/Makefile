@@ -1,3 +1,0 @@
-include $(TOPDIR)/rules.mk
-PKG_NAME:=auto-ping-modem
-...
